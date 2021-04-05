@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Siwen Wang
+# FILENAME: bagging_random_forest
+# SPECIFICATION: Assignment3, problem 7
 # FOR: CS 4200- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2 hrs
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
